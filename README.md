@@ -44,7 +44,7 @@ Tengo excelentes habilidades de desarrollo de juegos en los motores de juegos qu
 Sé cómo desarrollar software para los diferentes sistemas operativos así como para el entorno móvil (Andoid).
 </p>
 
-[Curriculo](https://pranjaljain0.github.io/pranjaljain0/Pranjal_Jain_CV.pdf)
+[Curriculo/Curriculum](https://github.com/LuizAntonioPereira/LuizAntonioPereira/blob/main/LUIZ%20ANTONIO%20NUNES%20PEREIRA_TI2.pdf)
 
 ## 🔧 Technologies & Tools / Tecnologias e ferramentas / Tecnologías y herramientas
 
