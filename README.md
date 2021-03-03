@@ -64,7 +64,7 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 
 ### Frameworks
 
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+<!--![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)-->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ### Mobile
