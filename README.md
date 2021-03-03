@@ -48,9 +48,9 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 
 ## 🔧 Technologies & Tools / Tecnologias e ferramentas / Tecnologías y herramientas
 
-### Full Stack
+<!--### Full Stack
 
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+<!--![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)-->
 
 ### Frontend
 
