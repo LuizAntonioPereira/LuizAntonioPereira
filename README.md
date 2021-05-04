@@ -61,7 +61,7 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp)
-![PHP](https://img.shields.io/badge/-PHP-#777BB4?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
 
 ### Frameworks
 
@@ -74,7 +74,7 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/-MySQL-#777BB4?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-777BB4?style=flat-square&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite)
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)-->
 
