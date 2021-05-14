@@ -8,9 +8,9 @@
 </p>-->
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/luiz-antonio-0a1774144"><img src="https://img.shields.io/badge/-Instagram-FFFFFF?style=flat-square&logo=instagram"/></a> 
-  <a href="https://dragaogames.herokuapp.com/"><img src="https://img.shields.io/badge/-Site-blue?style=flat-square&logo=internet-explorer"/></a>   
-  <a href="mailto:luiz.antonio.dragao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=flat-square&logo=gmail"/></a> 
+    <a href="https://www.linkedin.com/in/luiz-antonio-0a1774144"><img src="https://img.shields.io/badge/-Instagram-FFFFFF?style=flat&logo=instagram"/></a> 
+  <a href="https://dragaogames.herokuapp.com/"><img src="https://img.shields.io/badge/-Site-blue?style=flat&logo=internet-explorer"/></a>   
+  <a href="mailto:luiz.antonio.dragao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=flat&logo=gmail"/></a> 
 </p>
 <hr/>
 
