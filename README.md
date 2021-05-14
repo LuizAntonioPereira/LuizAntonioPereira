@@ -116,8 +116,8 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 
 ### Operating System 
 
-![Windows](https://img.shields.io/badge/-Windows10-007ACC?style=flat-square&logo=windows)
-![Linux](https://img.shields.io/badge/-Ubuntu-FFFFFF?style=flat-square&logo=ubuntu)
+![Windows](https://img.shields.io/badge/-Windows10-007ACC?style=flat&logo=windows)
+![Linux](https://img.shields.io/badge/-Ubuntu-FFFFFF?style=flat&logo=ubuntu)
 
 <!--
 **I Mostly Code in Vue** 
