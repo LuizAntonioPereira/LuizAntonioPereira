@@ -48,9 +48,9 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 
 ## 🔧 Technologies & Tools / Tecnologias e ferramentas / Tecnologías y herramientas
 
-<!--### Full Stack
+### Full Stack
 
-<!--![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)-->
+![Flutter](https://img.shields.io/badge/-Flutter-003B57?style=flat&logo=flutter)
 
 ### Frontend
 
@@ -61,20 +61,20 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp)
-![PHP](https://img.shields.io/badge/-PHP-66595C?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-blue?style=flat&logo=php&logoColor=ffffff)
 
 ### Frameworks
 
-<!--![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)-->
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ### Mobile
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-4A154B?style=flat&logo=android-studio)
+![Flutter](https://img.shields.io/badge/-Flutter-003B57?style=flat&logo=flutter)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/-MySQL-777BB4?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=flat&logo=mysql&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite)
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)-->
 
@@ -97,7 +97,7 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-66595C?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-blue?style=flat&logo=php&logoColor=ffffff)
 
 ### Design
 
@@ -112,8 +112,6 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 
 ![Unity](https://img.shields.io/badge/-Unity-4A154B?style=flat&logo=unity)
 ![Godot](https://img.shields.io/badge/-Godot%20Engine-FFFFFF?style=flat&logo=godot-engine)
-<!--![Phaser](https://phaser.io/images/logo/logo-download.png)
-![MonoGame](https://raw.githubusercontent.com/Mono-Game/MonoGame.Logo/master/FullColorOnLight/HorizontalLogo_128px.png)-->
 ![Blender](https://img.shields.io/badge/-Blender-4A154B?style=flat&logo=blender)
 
 ### Operating System 
