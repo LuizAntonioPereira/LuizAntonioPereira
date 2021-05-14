@@ -54,12 +54,12 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-&logo=css3)
 
 ### Backend
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-003B57?style=flat&logo=javascript)
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat&logo=php&logoColor=ffffff)
 
@@ -80,9 +80,9 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 
 ### Deploy
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![TortoiseSVN](https://img.shields.io/badge/-Tortoise-black?style=flat-square&logo=subversion)
+![Git](https://img.shields.io/badge/-Git-003B57?style=flat-&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-003B57?style=flat&logo=github)
+![TortoiseSVN](https://img.shields.io/badge/-Tortoise-003B57?style=flat&logo=subversion)
 
 ### Editors
 
@@ -94,19 +94,19 @@ Sé cómo desarrollar software para los diferentes sistemas operativos así como
 ## Languages
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat&logo=c-sharp)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-66595C?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat&logo=php&logoColor=ffffff)
 
 ### Design
 
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
-![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-![Krita](https://img.shields.io/badge/-Krita-000000?style=flat&logo=krita)
-![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat&logo=inkscape)
-![Adobe Dreamweaver](https://img.shields.io/badge/-Adobe%20Dreamweaver-000000?style=flat&logo=adobe-dreamweaver)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-003B57?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-003B57?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
+![InDesign](https://img.shields.io/badge/-InDesign-003B57?style=flat&logo=adobe-indesign)
+![Krita](https://img.shields.io/badge/-Krita-003B57?style=flat&logo=krita)
+![Inkscape](https://img.shields.io/badge/-Inkscape-003B57?style=flat&logo=inkscape)
+![Adobe Dreamweaver](https://img.shields.io/badge/-Adobe%20Dreamweaver-003B57?style=flat&logo=adobe-dreamweaver)
 
 ### Game Develop
 
